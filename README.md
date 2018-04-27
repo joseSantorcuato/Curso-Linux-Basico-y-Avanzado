@@ -1,7 +1,7 @@
 README
 
 #Curso básico y avanzado Linux
-#José Santorcuato Tapia**
+#José Santorcuato Tapia
 
 
 ######Ubuntu, Debian, Centos
