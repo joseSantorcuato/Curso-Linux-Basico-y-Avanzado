@@ -1,10 +1,10 @@
 **README**
 
 **Curso básico y avanzado Linux**
-#José Santorcuato Tapia
+**osé Santorcuato Tapia**
 
 
-######Ubuntu, Debian, Centos
+**Ubuntu, Debian, Centos**
 
 - Sesión 1. Contexto. Orígenes Linux. Unix, GNU, Minix, Linux. Tipos de Núcleos.Distros.Estructura
 - Sesión 2. Instalación Ubuntu en máquina virtual. Modo automático, manual y net install.Particiones. Instalación.
