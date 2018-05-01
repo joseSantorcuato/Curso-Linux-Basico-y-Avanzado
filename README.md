@@ -6,6 +6,7 @@
 
 
 **Ubuntu, Debian, Centos**
+
 **El curso posee está planificado para 48 horas, en 24 sesiones de 2 hrs c/u**
 
 - Sesión 1. Diagnóstico. Contexto. Orígenes Linux. Unix, GNU, Minix, Linux. Tipos de Núcleos.Distros.Estructura
