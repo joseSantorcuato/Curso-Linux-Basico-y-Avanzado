@@ -20,3 +20,4 @@
 - Sesión 9. Skel.Cambio de usuarios. Grupos./etc/group.usermod
 - Sesión 10. Debian 9 Escritorio. Ubuntu vs Debian.Ciclo de vida: Experimental, unstable, testing, stable, oldstable, oldoldstable.  GUI.Tipos de escritorio. Instalación guest additions
 - Sesión 11. Debian 9 Server, Rol, instalación. Creación de usuarios. /etc/passwd /etc/shadow. Cambio de usuarios. Grupos./etc/group.usermod. Mount /media. Network.
+- Sesión 12. Evaluación final curso. Pauta online desde el 02/05/2018
