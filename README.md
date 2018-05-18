@@ -15,6 +15,7 @@
 - Sesion 4. Aplicaciones básicas. Editores, compiladores.Instalación guest additions virtualbox.Carpetas compartidas.Synaptic.Instalación  paquetes dpkg vs apt.
 - Sesión 5. Comando básicos.Acceso a medios físicos /media. Manejo de archivos copiar, mover, eliminar, renombrar. Otros comandos.
 - Sesión 6. Servidores. Rol. Sitios, base de datos, documentos.LAMP.Instalación Apache, MySQL, PHP.Samba, servidor de documentos.
+-Sesion 6.5.Python en Linux, creación de ambientes virtuales, pyenv, pip, ejecución script.
 - Sesión 7. Motores base de datos.Comand line.CRUD. MySQL, PostgreSQL. Interacción PHP, servidor.
 - Sesión 8. Ubuntu Server 16.04. Rol, instalación. Creación de usuarios. /etc/passwd /etc/shadow
 - Sesión 9. Skel.Cambio de usuarios. Grupos./etc/group.usermod
