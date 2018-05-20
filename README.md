@@ -9,6 +9,8 @@
 
 **El curso está planificado para 48 horas, en 24 sesiones de 2 hrs c/u. Las primeras 12 sesiones corresponden al curso básico, las siguientes 12 al curso avanzado**
 
+**CURSO BÁSICO**
+
 - Sesión 1. Diagnóstico. Contexto. Orígenes Linux. Unix, GNU, Minix, Linux. Tipos de Núcleos.Distros.Estructura
 - Sesión 2. Instalación Ubuntu en máquina virtual. Modo automático, manual y net install.Particiones. Instalación.
 - Sesión 3. Ubuntu Desktop 16.04.GUI.Tipos de escritorio. Instalación extensión pack  virtualbox.Actualización sistema.Opciones de energia.Ofimática, recorrido por aplicaciones, instalación juegos. El usuario root
