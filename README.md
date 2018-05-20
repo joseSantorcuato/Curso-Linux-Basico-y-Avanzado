@@ -15,10 +15,11 @@
 - Sesion 4. Aplicaciones básicas. Editores, compiladores.Instalación guest additions virtualbox.Carpetas compartidas.Synaptic.Instalación  paquetes dpkg vs apt.
 - Sesión 5. Comando básicos.Acceso a medios físicos /media. Manejo de archivos copiar, mover, eliminar, renombrar. Otros comandos.
 - Sesión 6. git commit -m "Sesión 6.Servidores. Rol. Sitios, base de datos, documentos.LAMP.Instalación Apache, MySQL, PHP.Samba, servidor de documentos.Configuración acceso Windows10 a server Ubuntu-Samba
-- Sesion 6.5. Python en Linux, creación de ambientes virtuales, pyenv, pip, ejecución script.
-- Sesión 7. Motores base de datos.Comand line.CRUD. MySQL, PostgreSQL. Interacción PHP, servidor.
-- Sesión 8. Ubuntu Server 16.04. Rol, instalación. Creación de usuarios. /etc/passwd /etc/shadow
-- Sesión 9. Skel.Cambio de usuarios. Grupos./etc/group.usermod
-- Sesión 10. Debian 9 Escritorio. Ubuntu vs Debian.Ciclo de vida: Experimental, unstable, testing, stable, oldstable, oldoldstable.  GUI.Tipos de escritorio. Instalación guest additions
-- Sesión 11. Debian 9 Server, Rol, instalación. Creación de usuarios. /etc/passwd /etc/shadow. Cambio de usuarios. Grupos./etc/group.usermod. Mount /media. Network.
+- Sesión 7. Motores base de datos.CRUD, pequeño sistema. MySQL. Interacción PHP, servidor.
+- Sesion 8. Python en Linux, Creación de ambientes virtuales, pyenv, pip, ejecución script.
+
+- Sesión 9. Ubuntu Server 16.04. Rol, instalación. Creación de usuarios. /etc/passwd /etc/shadow
+- Sesión 10. Skel.Cambio de usuarios. Grupos./etc/group.usermod
+- Sesión 11. Debian 9 Escritorio. Ubuntu vs Debian.Ciclo de vida: Experimental, unstable, testing, stable, oldstable, oldoldstable.  GUI.Tipos de escritorio. Instalación guest additions
+- Sesión 11. Debian 9 Escritorio, instalación. Creación de usuarios. /etc/passwd /etc/shadow. Cambio de usuarios. Grupos./etc/group.usermod.
 - Sesión 12. Evaluación final curso. Pauta online desde el 02/05/2018
