@@ -1,6 +1,6 @@
 **README**
 
-**Curso básico y avanzado Linux**
+**Curso básico y avanzado Linux WIP**
 
 **José Santorcuato Tapia**
 
