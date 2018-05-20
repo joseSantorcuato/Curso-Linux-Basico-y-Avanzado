@@ -23,5 +23,4 @@
 - Sesión 9. Ubuntu Server 16.04. Rol, instalación. Creación de usuarios. /etc/passwd /etc/shadow
 - Sesión 10. Skel.Cambio de usuarios. Grupos./etc/group.usermod
 - Sesión 11. Debian 9 Escritorio. Ubuntu vs Debian.Ciclo de vida: Experimental, unstable, testing, stable, oldstable, oldoldstable.  GUI.Tipos de escritorio. Instalación guest additions
-- Sesión 11. Debian 9 Escritorio, instalación. Creación de usuarios. /etc/passwd /etc/shadow. Cambio de usuarios. Grupos./etc/group.usermod.
 - Sesión 12. Evaluación final curso. Pauta online desde el 02/05/2018
