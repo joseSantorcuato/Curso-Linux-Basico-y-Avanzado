@@ -16,7 +16,7 @@
 - Sesión 3. Ubuntu Desktop 16.04.GUI.Tipos de escritorio. Instalación extensión pack  virtualbox.Actualización sistema.Opciones de energia.Ofimática, recorrido por aplicaciones, instalación juegos. El usuario root
 - Sesion 4. Aplicaciones básicas. Editores, compiladores.Instalación guest additions virtualbox.Carpetas compartidas.Synaptic.Instalación  paquetes dpkg vs apt.
 - Sesión 5. Comando básicos.Acceso a medios físicos /media. Manejo de archivos copiar, mover, eliminar, renombrar. Otros comandos.
-- Sesión 6. Rol. Sitios, base de datos, documentos.LAMP.Instalación Apache, MySQL, PHP.Samba, servidor de documentos.Configuración acceso Windows10 a server Ubuntu-Samba
+- **Sesión 6(sesión extendida)**. Rol. Sitios, base de datos, documentos.LAMP.Instalación Apache, MySQL, PHP.Samba, servidor de documentos.Configuración acceso Windows10 a server Ubuntu-Samba. Esta sesión es la más larga y considera 4 a 6 horas.
 - Sesión 7. Motores base de datos.CRUD, pequeño sistema. MySQL. Interacción PHP, servidor.
 - Sesion 8. Python en Linux, Creación de ambientes virtuales, pyenv, pip, ejecución script.
 
