@@ -7,7 +7,7 @@
 
 **Ubuntu, Debian, Centos**
 
-**El curso está planificado para 48 horas, en 24 sesiones de 2 hrs c/u. Las primeras 12 sesiones corresponden al curso básico, las siguientes 12 al curso avanzado**
+**El curso está planificado para 48 horas, en 24 sesiones de 2 hrs c/u, salvo sesión 6, extendida. Las primeras 12 sesiones corresponden al curso básico, las siguientes 12 al curso avanzado**
 
 **CURSO BÁSICO**
 
