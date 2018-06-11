@@ -22,16 +22,15 @@
 - Sesión 9. Evaluación final curso. Pauta online desde el 02/05/2018
 
 **CURSO AVANZADO**
--  **Sesión 1(sesión extendida)**. Debian 9 Escritorio. Ubuntu vs Debian.Ciclo de vida: Experimental, unstable, testing, stable, oldstable, oldoldstable.  GUI.Tipos de escritorio. Instalación guest additions.Instalación por RED.Considera 4 horas.
-- Sesión 13. Debian.Usuarios. Tipos de creación usuarios. adduser vs useradd.Permisos. Lectura, escritura, ejecución. Grupos.
-- Sesión 14. Debian. Usuarios y grupos, creación de grupos, adjuntar usuarios a grupos, cambio de permisos sobre archivos, grupos y propietarios.
-- Sesión 15. Debian. Servidor LAMP. Permisos de ejecución. Creación de usuarios y permisos MySQL.
-- Sesión 16. Debian. Acceso SSH, desde otros ordenadores. Acceso remoto.Móviles, tareas administrativas.
-- Sesión 17. Debian. Bash. Cron. Automatización de tareas. Servidores. Backups.
-- Sesión 18. Debian 9 Server. Instalación.
-- Sesión 19. Debian 9 Server. Creación grupos-usuarios. Tareas administrativas.
-- Sesión 20. Centos 7 Escritorio. Instalación paquetes yum, paquetes rmp, comandos básicos.Acceso a medios físicos /media. Manejo de archivos copiar, mover, eliminar, renombrar. Otros comandos.
-- Sesión 21. Centos 7 Usuarios. Tipos de creación usuarios. adduser vs useradd.Permisos. Lectura, escritura, ejecución. Grupos.
-- Sesión 22. Centos 7.Bash. Cron. Automatización de tareas. Servidores. Backups.
-- Sesión 23. Centos 7 Server. Instalación, usuarios.
+-  **Sesión 13(sesión extendida)**. Debian 9 Escritorio. Ubuntu vs Debian.Ciclo de vida: Experimental, unstable, testing, stable, oldstable, oldoldstable.  GUI.Tipos de escritorio. Instalación guest additions.Instalación por RED.Considera 4 horas.
+- Sesión 14. Debian.Usuarios. Tipos de creación usuarios. adduser vs useradd.Permisos. Lectura, escritura, ejecución. Grupos.
+- Sesión 15. Debian. Usuarios y grupos, creación de grupos, adjuntar usuarios a grupos, cambio de permisos sobre archivos, grupos y propietarios.
+- Sesión 16. Debian. Servidor LAMP. Permisos de ejecución. Creación de usuarios y permisos MySQL.
+- Sesión 17. Debian. Acceso SSH, desde otros ordenadores. Acceso remoto.Móviles, tareas administrativas.
+- Sesión 18. Debian. Bash. Cron. Automatización de tareas. Servidores. Backups.
+- Sesión 19. Debian 9 Server. Instalación.
+- Sesión 20. Debian 9 Server. Creación grupos-usuarios. Tareas administrativas.
+- Sesión 21. Centos 7 Escritorio. Instalación paquetes yum, paquetes rmp, comandos básicos.Acceso a medios físicos /media. Manejo de archivos copiar, mover, eliminar, renombrar. Otros comandos.
+- Sesión 22. Centos 7 Usuarios. Tipos de creación usuarios. adduser vs useradd.Permisos. Lectura, escritura, ejecución. Grupos.
+- Sesión 23. Centos 7.Bash. Cron. Automatización de tareas. Servidores. Backups.
 - Sesión 24. Evaluación curso.
