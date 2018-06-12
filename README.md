@@ -23,8 +23,8 @@
 
 **CURSO AVANZADO**
 -  **Sesión 13(sesión extendida)**. Debian 9 Escritorio. Ubuntu vs Debian.Ciclo de vida: Experimental, unstable, testing, stable, oldstable, oldoldstable.  GUI.Tipos de escritorio. Instalación guest additions.Instalación por RED.Considera 4 horas.
-- Sesión 14. Debian.Usuarios. Tipos de creación usuarios. adduser vs useradd.Permisos. Lectura, escritura, ejecución. Grupos.
-- Sesión 15. Debian. Usuarios y grupos, creación de grupos, adjuntar usuarios a grupos, cambio de permisos sobre archivos, grupos y propietarios.
+- Sesión 14. Debian.Grupos y usuarios.Adduser vs useradd. Creación,modificación usermod, groupmod, eliminación, argumentos de creación, id personalizado. cat /etc/passwd, /etc/shadow, agregar a nuevo grupo, fecha de expiración. Permisos. Lectura, escritura, ejecución. Taller de usuarios.
+- Sesión 15. Debian. Usuarios y grupos, cambio de permisos y propiedad sobre archivos, grupos y propietarios.Taller sobre servidor.
 - Sesión 16. Debian. Servidor LAMP. Permisos de ejecución. Creación de usuarios y permisos MySQL.
 - Sesión 17. Debian. Acceso SSH, desde otros ordenadores. Acceso remoto.Móviles, tareas administrativas.
 - Sesión 18. Debian. Bash. Cron. Automatización de tareas. Servidores. Backups.
