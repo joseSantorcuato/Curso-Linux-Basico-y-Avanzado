@@ -27,7 +27,7 @@
 - Sesión 15. Debian. Usuarios y grupos, cambio de permisos y propiedad sobre archivos,chmod, chown, chgrp. Grupos y propietarios.Taller sobre documentos.
 - Sesión 16. Debian. Taller avanzado sobre usuarios y permisos.Permisos de acceso a aplicaciones.
 - Sesión 17. Debian. Instalación servidor.Montaje de medios físicos. mnt, lsblk, lsusb, fdisk -l.Instalación servidor web.
-- Sesión 18. Debian. Acceso SSH, desde otros ordenadores. Servidor LAMP, SAMBA. Acceso remoto.Móviles, tareas administrativas.Editor Nano.Impresoras HPLIP-CUPS.
+- Sesión 18. Debian. Acceso SSH, desde otros ordenadores. Servidor LAMP, Servidor SAMBA. Acceso remoto.Móviles, tareas administrativas.Editor Nano.Servidor impresión HPLIP-CUPS.
 - Sesión 19. Debian. Bash. Cron. Automatización de tareas. Servidores. Backups.
 - Sesión 20. Debian 9 Server. Creación grupos-usuarios. Tareas administrativas.
 - Sesión 21. Centos 7 Escritorio. Instalación paquetes yum, paquetes rpm, comandos básicos.Acceso a medios físicos /media. Manejo de archivos copiar, mover, eliminar, renombrar. Otros comandos.
