@@ -29,7 +29,7 @@
 - Sesión 17. Debian. Instalación servidor.Montaje de medios físicos. mnt, lsblk, lsusb, fdisk -l.Instalación servidor web.
 - Sesión 18. Debian. Acceso SSH, desde otros ordenadores. Servidor LAMP, Servidor SAMBA. Acceso remoto.Móviles, tareas administrativas.Editor Nano.Gigolo.
 - Sesión 19. Debian. Servidor impresión HPLIP-CUPS, configuración remota.
-- Sesión 20. Debian. Bash. Cron. Automatización de tareas. Backups.
+- Sesión 20. Debian. Bash. Cron. Automatización de tareas. Backups.Instalación Centos 7.
 - Sesión 21. Centos 7 Escritorio. Instalación paquetes yum, paquetes rpm, comandos básicos.Acceso a medios físicos /media. Manejo de archivos copiar, mover, eliminar, renombrar. Otros comandos.
 - Sesión 22. Centos 7 Usuarios. Tipos de creación usuarios. adduser vs useradd.Permisos. Lectura, escritura, ejecución. Grupos.
 - Sesión 23. Centos 7.Bash. Cron. Automatización de tareas. Servidores. Backups.
