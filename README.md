@@ -22,15 +22,14 @@
 - Sesión 9. Evaluación final curso. Pauta online desde el 02/05/2018
 
 **CURSO AVANZADO**
--  **Sesión 13(sesión extendida)**. Debian 9 Escritorio. Ubuntu vs Debian.Ciclo de vida: Experimental, unstable, testing, stable, oldstable, oldoldstable.  GUI.Tipos de escritorio. Instalación guest additions.Instalación por RED.Considera 4 horas.
+-  Sesión 13. Debian 9 Escritorio. Ubuntu vs Debian.Ciclo de vida: Experimental, unstable, testing, stable, oldstable, oldoldstable.  GUI.Tipos de escritorio. Instalación guest additions.Instalación por RED.Considera 4 horas.
 - Sesión 14. Debian.Grupos y usuarios.Adduser vs useradd. Creación,modificación usermod, groupmod, eliminación, argumentos de creación, id personalizado. cat /etc/passwd, /etc/shadow, agregar a nuevo grupo, fecha de expiración. Permisos. Lectura, escritura, ejecución. Taller de usuarios.
 - Sesión 15. Debian. Usuarios y grupos, cambio de permisos y propiedad sobre archivos,chmod, chown, chgrp. Grupos y propietarios.Taller sobre documentos.
 - Sesión 16. Debian. Taller avanzado sobre usuarios y permisos.Permisos de acceso a aplicaciones.
 - Sesión 17. Debian. Instalación servidor.Montaje de medios físicos. mnt, lsblk, lsusb, fdisk -l.Instalación servidor web.
 - Sesión 18. Debian. Acceso SSH, desde otros ordenadores. Servidor LAMP, Servidor SAMBA. Acceso remoto.Móviles, tareas administrativas.Editor Nano.Gigolo.
 - Sesión 19. Debian. Servidor impresión HPLIP-CUPS, configuración remota.
-- Sesión 20. Debian. Bash. Cron. Automatización de tareas. Backups.Instalación Centos 7.
-- Sesión 21. Centos 7 Escritorio. Instalación paquetes yum, paquetes rpm, comandos básicos.Acceso a medios físicos /media. Manejo de archivos copiar, mover, eliminar, renombrar. Otros comandos.
+- **Sesión 20(sesión extendida)**. Debian. Bash. Cron. Automatización de tareas. Backups.Instalación Centos 7.4 horas
+- Sesión 21. Centos 7 Escritorio. Instalación paquetes yum, dhclient, edición dhclient, Samba server.
 - Sesión 22. Centos 7 Usuarios. Tipos de creación usuarios. adduser vs useradd.Permisos. Lectura, escritura, ejecución. Grupos.
 - Sesión 23. Centos 7.Bash. Cron. Automatización de tareas. Servidores. Backups.
-- Sesión 24. Evaluación curso.
