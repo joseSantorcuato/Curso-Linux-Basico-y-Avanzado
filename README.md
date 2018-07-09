@@ -31,5 +31,4 @@
 - Sesión 19. Debian. Servidor impresión HPLIP-CUPS, configuración remota.
 - **Sesión 20(sesión extendida)**. Debian. Bash. Cron. Automatización de tareas. Backups.Instalación Centos 7.4 horas
 - Sesión 21. Centos 7 .Instalación entorno gráfico. Escritorio. Instalación paquetes yum, dhclient, edición dhclient, Samba server.
-- Sesión 22. Centos 7 Usuarios. Tipos de creación usuarios. adduser vs useradd.Permisos. Lectura, escritura, ejecución. Grupos.
-- Sesión 23. Centos 7.Bash. Cron. Automatización de tareas. Servidores. Backups.
+- Sesión 22. Debian Contrab, ejecución scripts. Centos7 Instalación servidor LAMP.
